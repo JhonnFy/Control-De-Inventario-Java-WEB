@@ -1,0 +1,3 @@
+/* global CKEDITOR */
+
+﻿CKEDITOR.plugins.setLang("pagebreak","hi",{alt:"पेज ब�?रेक",toolbar:"पेज ब�?रेक इन�?सर�?ट�? करें"});

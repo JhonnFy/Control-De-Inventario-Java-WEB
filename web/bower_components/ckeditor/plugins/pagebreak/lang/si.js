@@ -1,0 +1,3 @@
+/* global CKEDITOR */
+
+﻿CKEDITOR.plugins.setLang("pagebreak","si",{alt:"පිටු බිදුම",toolbar:"මුද්�?රණය සඳහ�? පිටු බිදුමක් ඇතුලත් කරන්න"});

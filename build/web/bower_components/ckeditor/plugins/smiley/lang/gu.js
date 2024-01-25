@@ -1,0 +1,3 @@
+/* global CKEDITOR */
+
+﻿CKEDITOR.plugins.setLang("smiley","gu",{options:"સમ�?ય�?લી વિકલ�?પો",title:"સ�?માઇલી  પસંદ કરો",toolbar:"સ�?માઇલી"});
