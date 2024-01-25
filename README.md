@@ -15,9 +15,12 @@ Actualizar, Listar, Registrar, Reportes
 DAOCARGO, DAOCATEGORIAS, DAOEMPLEADO, DAOMARCA, DAOPRODUCTOS, DAOPROVEEDOR, DAOUSUARIO
 
 ### Controlador:![MetodoEliminar](https://github.com/JhonnFy/Control-De-Inventario-Java-WEB/assets/97255802/18df0138-cdfe-47d0-8a9a-cdec2c1a254a)
-![SistemaControlDeInventario1](https://github.com/JhonnFy/Control-De-Inventario-Java-WEB/assets/97255802/c9d23aa0-d000-4c13-b4c4-2b8efd9199bc)
 
 srvUsuario, conexion, parametro
+
+![SistemaControlDeInventario1](https://github.com/JhonnFy/Control-De-Inventario-Java-WEB/assets/97255802/c9d23aa0-d000-4c13-b4c4-2b8efd9199bc)
+
+
 
 #(Tecnologías Principales) 
 Java Web, Sql, JavaScript, Css, Jasperreports.
