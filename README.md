@@ -1,5 +1,3 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtaI_2anXv1d6g1sz9lVPuSKMXcQjlzcyMQ&usqp=CAU)
-
 ![Logo](https://github.com/JhonnFy/Control-De-Inventario-Java-WEB/assets/97255802/7b3ac7fb-c1e2-48d0-ba2f-a82875265ec7)
 
 # ArquitecturaDao
@@ -26,3 +24,6 @@ srvUsuario, conexion, parametro
 Java Web, Sql, JavaScript, Css, Jasperreports.
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtaI_2anXv1d6g1sz9lVPuSKMXcQjlzcyMQ&usqp=CAU)
+
